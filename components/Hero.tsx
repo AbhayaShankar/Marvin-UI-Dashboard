@@ -32,7 +32,7 @@ const Hero = () => {
       <h3 className="capitalize text-[#63626e] text-lg tracking-wide">
         revolutionize your
       </h3>
-      <h1 className="text-[48px] font-semibold  leading-[60px] tracking-[1px] lg:max-w-[550px] ">
+      <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[48px] font-semibold lg:leading-[60px] tracking-[1px] lg:max-w-[550px] ">
         Creative Projects with the ultimate AI-Powered Pattern.
       </h1>
       <div className="pt-3 lg:pt-0 lg:absolute bottom-2 left-[200px]">
